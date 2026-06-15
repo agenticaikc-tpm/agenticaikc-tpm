@@ -39,8 +39,3 @@
 - Enterprise Architecture
 - Multi-Agent Systems
 - MCP (Model Context Protocol)
-
-### Connect With Me
-
-LinkedIn:
-linkedin.com/in/kousalyadevichellamuthu
